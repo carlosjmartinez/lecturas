@@ -14,7 +14,7 @@
 
 /*ETIQUETAS*/
 body{
-background-image: url(../img/fondo.jpg);
+background-image: url(../img/azul.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -80,21 +80,12 @@ section{
 	margin-top: 20px;
 	border-radius: 10px;
 }
-aside{
 
-	width: 280px;
-	background: white;
-	height: 600px;
-	float: left;
-	margin-left: 20px;
-	margin-top: 20px;
-	border-radius: 10px;
-}
 
 footer{
 width: 1000px;
 height: 70px;
-background: maroon;
+background: orange;
 float: left;
 margin-top: 20px;
 border-radius: 10px;
